@@ -520,4 +520,3 @@ INSERT INTO regencies (feeder_code, code, name)
     ('321200', '92.11', 'Kab. Manokwari Selatan'),
     ('321100', '92.12', 'Kab. Pegunungan Arfak'),
     ('326000', '92.71', 'Kota Sorong');
-

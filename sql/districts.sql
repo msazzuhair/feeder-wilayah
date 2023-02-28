@@ -7272,4 +7272,3 @@ INSERT INTO districts (feeder_code, code, name)
     ('326010', '92.71.08', 'Klaurung'),
     ('326011', '92.71.09', 'Malaimsimsa'),
     ('326012', '92.71.10', 'Maladum Mes');
-

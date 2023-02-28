@@ -40,4 +40,3 @@ INSERT INTO provinces (feeder_code, code, name)
     ('270000', '82', 'Maluku Utara'),
     ('250000', '91', 'Papua'),
     ('320000', '92', 'Papua Barat');
-
