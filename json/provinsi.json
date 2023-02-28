@@ -1,0 +1,172 @@
+[
+  {
+    "feeder_code": "060000",
+    "code": "11",
+    "name": "Aceh"
+  },
+  {
+    "feeder_code": "070000",
+    "code": "12",
+    "name": "Sumatera Utara"
+  },
+  {
+    "feeder_code": "080000",
+    "code": "13",
+    "name": "Sumatera Barat"
+  },
+  {
+    "feeder_code": "090000",
+    "code": "14",
+    "name": "Riau"
+  },
+  {
+    "feeder_code": "100000",
+    "code": "15",
+    "name": "Jambi"
+  },
+  {
+    "feeder_code": "110000",
+    "code": "16",
+    "name": "Sumatera Selatan"
+  },
+  {
+    "feeder_code": "260000",
+    "code": "17",
+    "name": "Bengkulu"
+  },
+  {
+    "feeder_code": "120000",
+    "code": "18",
+    "name": "Lampung"
+  },
+  {
+    "feeder_code": "290000",
+    "code": "19",
+    "name": "Kepulauan Bangka Belitung"
+  },
+  {
+    "feeder_code": "310000",
+    "code": "21",
+    "name": "Kepulauan Riau"
+  },
+  {
+    "feeder_code": "010000",
+    "code": "31",
+    "name": "DKI Jakarta"
+  },
+  {
+    "feeder_code": "020000",
+    "code": "32",
+    "name": "Jawa Barat"
+  },
+  {
+    "feeder_code": "030000",
+    "code": "33",
+    "name": "Jawa Tengah"
+  },
+  {
+    "feeder_code": "040000",
+    "code": "34",
+    "name": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "feeder_code": "050000",
+    "code": "35",
+    "name": "Jawa Timur"
+  },
+  {
+    "feeder_code": "280000",
+    "code": "36",
+    "name": "Banten"
+  },
+  {
+    "feeder_code": "220000",
+    "code": "51",
+    "name": "Bali"
+  },
+  {
+    "feeder_code": "230000",
+    "code": "52",
+    "name": "Nusa Tenggara Barat"
+  },
+  {
+    "feeder_code": "240000",
+    "code": "53",
+    "name": "Nusa Tenggara Timur"
+  },
+  {
+    "feeder_code": "130000",
+    "code": "61",
+    "name": "Kalimantan Barat"
+  },
+  {
+    "feeder_code": "140000",
+    "code": "62",
+    "name": "Kalimantan Tengah"
+  },
+  {
+    "feeder_code": "150000",
+    "code": "63",
+    "name": "Kalimantan Selatan"
+  },
+  {
+    "feeder_code": "160000",
+    "code": "64",
+    "name": "Kalimantan Timur"
+  },
+  {
+    "feeder_code": "340000",
+    "code": "65",
+    "name": "Kalimantan Utara"
+  },
+  {
+    "feeder_code": "170000",
+    "code": "71",
+    "name": "Sulawesi Utara"
+  },
+  {
+    "feeder_code": "180000",
+    "code": "72",
+    "name": "Sulawesi Tengah"
+  },
+  {
+    "feeder_code": "190000",
+    "code": "73",
+    "name": "Sulawesi Selatan"
+  },
+  {
+    "feeder_code": "200000",
+    "code": "74",
+    "name": "Sulawesi Tenggara"
+  },
+  {
+    "feeder_code": "300000",
+    "code": "75",
+    "name": "Gorontalo"
+  },
+  {
+    "feeder_code": "330000",
+    "code": "76",
+    "name": "Sulawesi Barat"
+  },
+  {
+    "feeder_code": "210000",
+    "code": "81",
+    "name": "Maluku"
+  },
+  {
+    "feeder_code": "270000",
+    "code": "82",
+    "name": "Maluku Utara"
+  },
+  {
+    "feeder_code": "250000",
+    "code": "91",
+    "name": "Papua"
+  },
+  {
+    "feeder_code": "320000",
+    "code": "92",
+    "name": "Papua Barat"
+  }
+]

@@ -1,0 +1,2572 @@
+[
+  {
+    "feeder_code": "060700",
+    "code": "11.01",
+    "name": "Kab. Aceh Selatan"
+  },
+  {
+    "feeder_code": "060800",
+    "code": "11.02",
+    "name": "Kab. Aceh Tenggara"
+  },
+  {
+    "feeder_code": "060400",
+    "code": "11.03",
+    "name": "Kab. Aceh Timur"
+  },
+  {
+    "feeder_code": "060500",
+    "code": "11.04",
+    "name": "Kab. Aceh Tengah"
+  },
+  {
+    "feeder_code": "060600",
+    "code": "11.05",
+    "name": "Kab. Aceh Barat"
+  },
+  {
+    "feeder_code": "060100",
+    "code": "11.06",
+    "name": "Kab. Aceh Besar"
+  },
+  {
+    "feeder_code": "060200",
+    "code": "11.07",
+    "name": "Kab. Pidie"
+  },
+  {
+    "feeder_code": "060300",
+    "code": "11.08",
+    "name": "Kab. Aceh Utara"
+  },
+  {
+    "feeder_code": "061100",
+    "code": "11.09",
+    "name": "Kab. Simeulue"
+  },
+  {
+    "feeder_code": "061300",
+    "code": "11.10",
+    "name": "Kab. Aceh Singkil"
+  },
+  {
+    "feeder_code": "061200",
+    "code": "11.11",
+    "name": "Kab. Bireuen"
+  },
+  {
+    "feeder_code": "061700",
+    "code": "11.12",
+    "name": "Kab. Aceh Barat Daya"
+  },
+  {
+    "feeder_code": "061800",
+    "code": "11.13",
+    "name": "Kab. Gayo Lues"
+  },
+  {
+    "feeder_code": "061600",
+    "code": "11.14",
+    "name": "Kab. Aceh Jaya"
+  },
+  {
+    "feeder_code": "061500",
+    "code": "11.15",
+    "name": "Kab. Nagan Raya"
+  },
+  {
+    "feeder_code": "061400",
+    "code": "11.16",
+    "name": "Kab. Aceh Tamiang"
+  },
+  {
+    "feeder_code": "061900",
+    "code": "11.17",
+    "name": "Kab. Bener Meriah"
+  },
+  {
+    "feeder_code": "062000",
+    "code": "11.18",
+    "name": "Kab. Pidie Jaya"
+  },
+  {
+    "feeder_code": "066100",
+    "code": "11.71",
+    "name": "Kota Banda Aceh"
+  },
+  {
+    "feeder_code": "066000",
+    "code": "11.72",
+    "name": "Kota Sabang"
+  },
+  {
+    "feeder_code": "066200",
+    "code": "11.73",
+    "name": "Kota Lhokseumawe"
+  },
+  {
+    "feeder_code": "066300",
+    "code": "11.74",
+    "name": "Kota Langsa"
+  },
+  {
+    "feeder_code": "066400",
+    "code": "11.75",
+    "name": "Kota Subulussalam"
+  },
+  {
+    "feeder_code": "070900",
+    "code": "12.01",
+    "name": "Kab. Tapanuli Tengah"
+  },
+  {
+    "feeder_code": "070800",
+    "code": "12.02",
+    "name": "Kab. Tapanuli Utara"
+  },
+  {
+    "feeder_code": "071000",
+    "code": "12.03",
+    "name": "Kab. Tapanuli Selatan"
+  },
+  {
+    "feeder_code": "071100",
+    "code": "12.04",
+    "name": "Kab. Nias"
+  },
+  {
+    "feeder_code": "070200",
+    "code": "12.05",
+    "name": "Kab. Langkat"
+  },
+  {
+    "feeder_code": "070300",
+    "code": "12.06",
+    "name": "Kab. Karo"
+  },
+  {
+    "feeder_code": "070100",
+    "code": "12.07",
+    "name": "Kab. Deli Serdang"
+  },
+  {
+    "feeder_code": "070400",
+    "code": "12.08",
+    "name": "Kab. Simalungun"
+  },
+  {
+    "feeder_code": "070600",
+    "code": "12.09",
+    "name": "Kab. Asahan"
+  },
+  {
+    "feeder_code": "070700",
+    "code": "12.10",
+    "name": "Kab. Labuhanbatu"
+  },
+  {
+    "feeder_code": "070500",
+    "code": "12.11",
+    "name": "Kab. Dairi"
+  },
+  {
+    "feeder_code": "071600",
+    "code": "12.12",
+    "name": "Kab. Toba"
+  },
+  {
+    "feeder_code": "071500",
+    "code": "12.13",
+    "name": "Kab. Mandailing Natal"
+  },
+  {
+    "feeder_code": "071700",
+    "code": "12.14",
+    "name": "Kab. Nias Selatan"
+  },
+  {
+    "feeder_code": "071800",
+    "code": "12.15",
+    "name": "Kab. Pakpak Bharat"
+  },
+  {
+    "feeder_code": "071900",
+    "code": "12.16",
+    "name": "Kab. Humbang Hasundutan"
+  },
+  {
+    "feeder_code": "072000",
+    "code": "12.17",
+    "name": "Kab. Samosir"
+  },
+  {
+    "feeder_code": "072100",
+    "code": "12.18",
+    "name": "Kab. Serdang Bedagai"
+  },
+  {
+    "feeder_code": "072200",
+    "code": "12.19",
+    "name": "Kab. Batu Bara"
+  },
+  {
+    "feeder_code": "072300",
+    "code": "12.20",
+    "name": "Kab. Padang Lawas Utara"
+  },
+  {
+    "feeder_code": "072400",
+    "code": "12.21",
+    "name": "Kab. Padang Lawas"
+  },
+  {
+    "feeder_code": "072600",
+    "code": "12.22",
+    "name": "Kab. Labuhanbatu Selatan"
+  },
+  {
+    "feeder_code": "072500",
+    "code": "12.23",
+    "name": "Kab. Labuhanbatu Utara"
+  },
+  {
+    "feeder_code": "072800",
+    "code": "12.24",
+    "name": "Kab. Nias Utara"
+  },
+  {
+    "feeder_code": "072700",
+    "code": "12.25",
+    "name": "Kab. Nias Barat"
+  },
+  {
+    "feeder_code": "076000",
+    "code": "12.71",
+    "name": "Kota Medan"
+  },
+  {
+    "feeder_code": "076300",
+    "code": "12.72",
+    "name": "Kota Pematangsiantar"
+  },
+  {
+    "feeder_code": "076500",
+    "code": "12.73",
+    "name": "Kota Sibolga"
+  },
+  {
+    "feeder_code": "076400",
+    "code": "12.74",
+    "name": "Kota Tanjung Balai"
+  },
+  {
+    "feeder_code": "076100",
+    "code": "12.75",
+    "name": "Kota Binjai"
+  },
+  {
+    "feeder_code": "076200",
+    "code": "12.76",
+    "name": "Kota Tebing Tinggi"
+  },
+  {
+    "feeder_code": "076600",
+    "code": "12.77",
+    "name": "Kota Padangsidimpuan"
+  },
+  {
+    "feeder_code": "076700",
+    "code": "12.78",
+    "name": "Kota Gunungsitoli"
+  },
+  {
+    "feeder_code": "080600",
+    "code": "13.01",
+    "name": "Kab. Pesisir Selatan"
+  },
+  {
+    "feeder_code": "080400",
+    "code": "13.02",
+    "name": "Kab. Solok"
+  },
+  {
+    "feeder_code": "080800",
+    "code": "13.03",
+    "name": "Kab. Sijunjung"
+  },
+  {
+    "feeder_code": "080700",
+    "code": "13.04",
+    "name": "Kab. Tanah Datar"
+  },
+  {
+    "feeder_code": "080500",
+    "code": "13.05",
+    "name": "Kab. Padang Pariaman"
+  },
+  {
+    "feeder_code": "080100",
+    "code": "13.06",
+    "name": "Kab. Agam"
+  },
+  {
+    "feeder_code": "080300",
+    "code": "13.07",
+    "name": "Kab. Lima Puluh Kota"
+  },
+  {
+    "feeder_code": "080200",
+    "code": "13.08",
+    "name": "Kab. Pasaman"
+  },
+  {
+    "feeder_code": "081000",
+    "code": "13.09",
+    "name": "Kab. Kepulauan Mentawai"
+  },
+  {
+    "feeder_code": "081200",
+    "code": "13.10",
+    "name": "Kab. Dharmasraya"
+  },
+  {
+    "feeder_code": "081100",
+    "code": "13.11",
+    "name": "Kab. Solok Selatan"
+  },
+  {
+    "feeder_code": "081300",
+    "code": "13.12",
+    "name": "Kab. Pasaman Barat"
+  },
+  {
+    "feeder_code": "086100",
+    "code": "13.71",
+    "name": "Kota Padang"
+  },
+  {
+    "feeder_code": "086400",
+    "code": "13.72",
+    "name": "Kota Solok"
+  },
+  {
+    "feeder_code": "086300",
+    "code": "13.73",
+    "name": "Kota Sawahlunto"
+  },
+  {
+    "feeder_code": "086200",
+    "code": "13.74",
+    "name": "Kota Padang Panjang"
+  },
+  {
+    "feeder_code": "086000",
+    "code": "13.75",
+    "name": "Kota Bukittinggi"
+  },
+  {
+    "feeder_code": "086500",
+    "code": "13.76",
+    "name": "Kota Payakumbuh"
+  },
+  {
+    "feeder_code": "086600",
+    "code": "13.77",
+    "name": "Kota Pariaman"
+  },
+  {
+    "feeder_code": "090100",
+    "code": "14.01",
+    "name": "Kab. Kampar"
+  },
+  {
+    "feeder_code": "090400",
+    "code": "14.02",
+    "name": "Kab. Indragiri Hulu"
+  },
+  {
+    "feeder_code": "090200",
+    "code": "14.03",
+    "name": "Kab. Bengkalis"
+  },
+  {
+    "feeder_code": "090500",
+    "code": "14.04",
+    "name": "Kab. Indragiri Hilir"
+  },
+  {
+    "feeder_code": "090800",
+    "code": "14.05",
+    "name": "Kab. Pelalawan"
+  },
+  {
+    "feeder_code": "091400",
+    "code": "14.06",
+    "name": "Kab. Rokan Hulu"
+  },
+  {
+    "feeder_code": "090900",
+    "code": "14.07",
+    "name": "Kab. Rokan Hilir"
+  },
+  {
+    "feeder_code": "091000",
+    "code": "14.08",
+    "name": "Kab. Siak"
+  },
+  {
+    "feeder_code": "091100",
+    "code": "14.09",
+    "name": "Kab. Kuantan Singingi"
+  },
+  {
+    "feeder_code": "091500",
+    "code": "14.10",
+    "name": "Kab. Kepulauan Meranti"
+  },
+  {
+    "feeder_code": "096000",
+    "code": "14.71",
+    "name": "Kota Pekanbaru"
+  },
+  {
+    "feeder_code": "096200",
+    "code": "14.72",
+    "name": "Kota Dumai"
+  },
+  {
+    "feeder_code": "100500",
+    "code": "15.01",
+    "name": "Kab. Kerinci"
+  },
+  {
+    "feeder_code": "100900",
+    "code": "15.02",
+    "name": "Kab. Merangin"
+  },
+  {
+    "feeder_code": "100300",
+    "code": "15.03",
+    "name": "Kab. Sarolangun"
+  },
+  {
+    "feeder_code": "100100",
+    "code": "15.04",
+    "name": "Kab. Batanghari"
+  },
+  {
+    "feeder_code": "100700",
+    "code": "15.05",
+    "name": "Kab. Muaro Jambi"
+  },
+  {
+    "feeder_code": "100400",
+    "code": "15.06",
+    "name": "Kab. Tanjung Jabung Barat"
+  },
+  {
+    "feeder_code": "100800",
+    "code": "15.07",
+    "name": "Kab. Tanjung Jabung Timur"
+  },
+  {
+    "feeder_code": "100200",
+    "code": "15.08",
+    "name": "Kab. Bungo"
+  },
+  {
+    "feeder_code": "100600",
+    "code": "15.09",
+    "name": "Kab. Tebo"
+  },
+  {
+    "feeder_code": "106000",
+    "code": "15.71",
+    "name": "Kota Jambi"
+  },
+  {
+    "feeder_code": "106100",
+    "code": "15.72",
+    "name": "Kota Sungai Penuh"
+  },
+  {
+    "feeder_code": "110300",
+    "code": "16.01",
+    "name": "Kab. Ogan Komering Ulu"
+  },
+  {
+    "feeder_code": "110200",
+    "code": "16.02",
+    "name": "Kab. Ogan Komering Ilir"
+  },
+  {
+    "feeder_code": "110400",
+    "code": "16.03",
+    "name": "Kab. Muara Enim"
+  },
+  {
+    "feeder_code": "110500",
+    "code": "16.04",
+    "name": "Kab. Lahat"
+  },
+  {
+    "feeder_code": "110600",
+    "code": "16.05",
+    "name": "Kab. Musi Rawas"
+  },
+  {
+    "feeder_code": "110100",
+    "code": "16.06",
+    "name": "Kab. Musi Banyuasin"
+  },
+  {
+    "feeder_code": "110700",
+    "code": "16.07",
+    "name": "Kab. Banyuasin"
+  },
+  {
+    "feeder_code": "110800",
+    "code": "16.08",
+    "name": "Kab. Ogan Komering Ulu Timur"
+  },
+  {
+    "feeder_code": "110900",
+    "code": "16.09",
+    "name": "Kab. Ogan Komering Ulu Selatan"
+  },
+  {
+    "feeder_code": "111000",
+    "code": "16.10",
+    "name": "Kab. Ogan Ilir"
+  },
+  {
+    "feeder_code": "111100",
+    "code": "16.11",
+    "name": "Kab. Empat Lawang"
+  },
+  {
+    "feeder_code": "111200",
+    "code": "16.12",
+    "name": "Kab. Penukal Abab Lematang Ilir"
+  },
+  {
+    "feeder_code": "111300",
+    "code": "16.13",
+    "name": "Kab. Musi Rawas Utara"
+  },
+  {
+    "feeder_code": "116000",
+    "code": "16.71",
+    "name": "Kota Palembang"
+  },
+  {
+    "feeder_code": "116300",
+    "code": "16.72",
+    "name": "Kota Pagar Alam"
+  },
+  {
+    "feeder_code": "116200",
+    "code": "16.73",
+    "name": "Kota Lubuk Linggau"
+  },
+  {
+    "feeder_code": "116100",
+    "code": "16.74",
+    "name": "Kota Prabumulih"
+  },
+  {
+    "feeder_code": "260300",
+    "code": "17.01",
+    "name": "Kab. Bengkulu Selatan"
+  },
+  {
+    "feeder_code": "260200",
+    "code": "17.02",
+    "name": "Kab. Rejang Lebong"
+  },
+  {
+    "feeder_code": "260100",
+    "code": "17.03",
+    "name": "Kab. Bengkulu Utara"
+  },
+  {
+    "feeder_code": "260700",
+    "code": "17.04",
+    "name": "Kab. Kaur"
+  },
+  {
+    "feeder_code": "260800",
+    "code": "17.05",
+    "name": "Kab. Seluma"
+  },
+  {
+    "feeder_code": "260400",
+    "code": "17.06",
+    "name": "Kab. Muko Muko"
+  },
+  {
+    "feeder_code": "260600",
+    "code": "17.07",
+    "name": "Kab. Lebong"
+  },
+  {
+    "feeder_code": "260500",
+    "code": "17.08",
+    "name": "Kab. Kepahiang"
+  },
+  {
+    "feeder_code": "260900",
+    "code": "17.09",
+    "name": "Kab. Bengkulu Tengah"
+  },
+  {
+    "feeder_code": "266000",
+    "code": "17.71",
+    "name": "Kota Bengkulu"
+  },
+  {
+    "feeder_code": "120100",
+    "code": "18.01",
+    "name": "Kab. Lampung Selatan"
+  },
+  {
+    "feeder_code": "120200",
+    "code": "18.02",
+    "name": "Kab. Lampung Tengah"
+  },
+  {
+    "feeder_code": "120300",
+    "code": "18.03",
+    "name": "Kab. Lampung Utara"
+  },
+  {
+    "feeder_code": "120400",
+    "code": "18.04",
+    "name": "Kab. Lampung Barat"
+  },
+  {
+    "feeder_code": "120500",
+    "code": "18.05",
+    "name": "Kab. Tulang Bawang"
+  },
+  {
+    "feeder_code": "120600",
+    "code": "18.06",
+    "name": "Kab. Tanggamus"
+  },
+  {
+    "feeder_code": "120700",
+    "code": "18.07",
+    "name": "Kab. Lampung Timur"
+  },
+  {
+    "feeder_code": "120800",
+    "code": "18.08",
+    "name": "Kab. Way Kanan"
+  },
+  {
+    "feeder_code": "120900",
+    "code": "18.09",
+    "name": "Kab. Pesawaran"
+  },
+  {
+    "feeder_code": "121200",
+    "code": "18.10",
+    "name": "Kab. Pringsewu"
+  },
+  {
+    "feeder_code": "121100",
+    "code": "18.11",
+    "name": "Kab. Mesuji"
+  },
+  {
+    "feeder_code": "121000",
+    "code": "18.12",
+    "name": "Kab. Tulang Bawang Barat"
+  },
+  {
+    "feeder_code": "121300",
+    "code": "18.13",
+    "name": "Kab. Pesisir Barat"
+  },
+  {
+    "feeder_code": "126000",
+    "code": "18.71",
+    "name": "Kota Bandar Lampung"
+  },
+  {
+    "feeder_code": "126100",
+    "code": "18.72",
+    "name": "Kota Metro"
+  },
+  {
+    "feeder_code": "290100",
+    "code": "19.01",
+    "name": "Kab. Bangka"
+  },
+  {
+    "feeder_code": "290200",
+    "code": "19.02",
+    "name": "Kab. Belitung"
+  },
+  {
+    "feeder_code": "290500",
+    "code": "19.03",
+    "name": "Kab. Bangka Selatan"
+  },
+  {
+    "feeder_code": "290300",
+    "code": "19.04",
+    "name": "Kab. Bangka Tengah"
+  },
+  {
+    "feeder_code": "290400",
+    "code": "19.05",
+    "name": "Kab. Bangka Barat"
+  },
+  {
+    "feeder_code": "290600",
+    "code": "19.06",
+    "name": "Kab. Belitung Timur"
+  },
+  {
+    "feeder_code": "296000",
+    "code": "19.71",
+    "name": "Kota Pangkal Pinang"
+  },
+  {
+    "feeder_code": "310100",
+    "code": "21.01",
+    "name": "Kab. Bintan"
+  },
+  {
+    "feeder_code": "310200",
+    "code": "21.02",
+    "name": "Kab. Karimun"
+  },
+  {
+    "feeder_code": "310300",
+    "code": "21.03",
+    "name": "Kab. Natuna"
+  },
+  {
+    "feeder_code": "310400",
+    "code": "21.04",
+    "name": "Kab. Lingga"
+  },
+  {
+    "feeder_code": "310500",
+    "code": "21.05",
+    "name": "Kab. Kepulauan Anambas"
+  },
+  {
+    "feeder_code": "316000",
+    "code": "21.71",
+    "name": "Kota Batam"
+  },
+  {
+    "feeder_code": "316100",
+    "code": "21.72",
+    "name": "Kota Tanjung Pinang"
+  },
+  {
+    "feeder_code": "010100",
+    "code": "31.01",
+    "name": "Kab. Adm. Kep. Seribu"
+  },
+  {
+    "feeder_code": "016000",
+    "code": "31.71",
+    "name": "Kota Adm. Jakarta Pusat"
+  },
+  {
+    "feeder_code": "016100",
+    "code": "31.72",
+    "name": "Kota Adm. Jakarta Utara"
+  },
+  {
+    "feeder_code": "016200",
+    "code": "31.73",
+    "name": "Kota Adm. Jakarta Barat"
+  },
+  {
+    "feeder_code": "016300",
+    "code": "31.74",
+    "name": "Kota Adm. Jakarta Selatan"
+  },
+  {
+    "feeder_code": "016400",
+    "code": "31.75",
+    "name": "Kota Adm. Jakarta Timur"
+  },
+  {
+    "feeder_code": "020500",
+    "code": "32.01",
+    "name": "Kab. Bogor"
+  },
+  {
+    "feeder_code": "020600",
+    "code": "32.02",
+    "name": "Kab. Sukabumi"
+  },
+  {
+    "feeder_code": "020700",
+    "code": "32.03",
+    "name": "Kab. Cianjur"
+  },
+  {
+    "feeder_code": "020800",
+    "code": "32.04",
+    "name": "Kab. Bandung"
+  },
+  {
+    "feeder_code": "021100",
+    "code": "32.05",
+    "name": "Kab. Garut"
+  },
+  {
+    "feeder_code": "021200",
+    "code": "32.06",
+    "name": "Kab. Tasikmalaya"
+  },
+  {
+    "feeder_code": "021400",
+    "code": "32.07",
+    "name": "Kab. Ciamis"
+  },
+  {
+    "feeder_code": "021500",
+    "code": "32.08",
+    "name": "Kab. Kuningan"
+  },
+  {
+    "feeder_code": "021700",
+    "code": "32.09",
+    "name": "Kab. Cirebon"
+  },
+  {
+    "feeder_code": "021600",
+    "code": "32.10",
+    "name": "Kab. Majalengka"
+  },
+  {
+    "feeder_code": "021000",
+    "code": "32.11",
+    "name": "Kab. Sumedang"
+  },
+  {
+    "feeder_code": "021800",
+    "code": "32.12",
+    "name": "Kab. Indramayu"
+  },
+  {
+    "feeder_code": "021900",
+    "code": "32.13",
+    "name": "Kab. Subang"
+  },
+  {
+    "feeder_code": "022000",
+    "code": "32.14",
+    "name": "Kab. Purwakarta"
+  },
+  {
+    "feeder_code": "022100",
+    "code": "32.15",
+    "name": "Kab. Karawang"
+  },
+  {
+    "feeder_code": "022200",
+    "code": "32.16",
+    "name": "Kab. Bekasi"
+  },
+  {
+    "feeder_code": "022300",
+    "code": "32.17",
+    "name": "Kab. Bandung Barat"
+  },
+  {
+    "feeder_code": "022500",
+    "code": "32.18",
+    "name": "Kab. Pangandaran"
+  },
+  {
+    "feeder_code": "026100",
+    "code": "32.71",
+    "name": "Kota Bogor"
+  },
+  {
+    "feeder_code": "026200",
+    "code": "32.72",
+    "name": "Kota Sukabumi"
+  },
+  {
+    "feeder_code": "026000",
+    "code": "32.73",
+    "name": "Kota Bandung"
+  },
+  {
+    "feeder_code": "026300",
+    "code": "32.74",
+    "name": "Kota Cirebon"
+  },
+  {
+    "feeder_code": "026500",
+    "code": "32.75",
+    "name": "Kota Bekasi"
+  },
+  {
+    "feeder_code": "026600",
+    "code": "32.76",
+    "name": "Kota Depok"
+  },
+  {
+    "feeder_code": "026700",
+    "code": "32.77",
+    "name": "Kota Cimahi"
+  },
+  {
+    "feeder_code": "026800",
+    "code": "32.78",
+    "name": "Kota Tasikmalaya"
+  },
+  {
+    "feeder_code": "026900",
+    "code": "32.79",
+    "name": "Kota Banjar"
+  },
+  {
+    "feeder_code": "030100",
+    "code": "33.01",
+    "name": "Kab. Cilacap"
+  },
+  {
+    "feeder_code": "030200",
+    "code": "33.02",
+    "name": "Kab. Banyumas"
+  },
+  {
+    "feeder_code": "030300",
+    "code": "33.03",
+    "name": "Kab. Purbalingga"
+  },
+  {
+    "feeder_code": "030400",
+    "code": "33.04",
+    "name": "Kab. Banjarnegara"
+  },
+  {
+    "feeder_code": "030500",
+    "code": "33.05",
+    "name": "Kab. Kebumen"
+  },
+  {
+    "feeder_code": "030600",
+    "code": "33.06",
+    "name": "Kab. Purworejo"
+  },
+  {
+    "feeder_code": "030700",
+    "code": "33.07",
+    "name": "Kab. Wonosobo"
+  },
+  {
+    "feeder_code": "030800",
+    "code": "33.08",
+    "name": "Kab. Magelang"
+  },
+  {
+    "feeder_code": "030900",
+    "code": "33.09",
+    "name": "Kab. Boyolali"
+  },
+  {
+    "feeder_code": "031000",
+    "code": "33.10",
+    "name": "Kab. Klaten"
+  },
+  {
+    "feeder_code": "031100",
+    "code": "33.11",
+    "name": "Kab. Sukoharjo"
+  },
+  {
+    "feeder_code": "031200",
+    "code": "33.12",
+    "name": "Kab. Wonogiri"
+  },
+  {
+    "feeder_code": "031300",
+    "code": "33.13",
+    "name": "Kab. Karanganyar"
+  },
+  {
+    "feeder_code": "031400",
+    "code": "33.14",
+    "name": "Kab. Sragen"
+  },
+  {
+    "feeder_code": "031500",
+    "code": "33.15",
+    "name": "Kab. Grobogan"
+  },
+  {
+    "feeder_code": "031600",
+    "code": "33.16",
+    "name": "Kab. Blora"
+  },
+  {
+    "feeder_code": "031700",
+    "code": "33.17",
+    "name": "Kab. Rembang"
+  },
+  {
+    "feeder_code": "031800",
+    "code": "33.18",
+    "name": "Kab. Pati"
+  },
+  {
+    "feeder_code": "031900",
+    "code": "33.19",
+    "name": "Kab. Kudus"
+  },
+  {
+    "feeder_code": "032000",
+    "code": "33.20",
+    "name": "Kab. Jepara"
+  },
+  {
+    "feeder_code": "032100",
+    "code": "33.21",
+    "name": "Kab. Demak"
+  },
+  {
+    "feeder_code": "032200",
+    "code": "33.22",
+    "name": "Kab. Semarang"
+  },
+  {
+    "feeder_code": "032300",
+    "code": "33.23",
+    "name": "Kab. Temanggung"
+  },
+  {
+    "feeder_code": "032400",
+    "code": "33.24",
+    "name": "Kab. Kendal"
+  },
+  {
+    "feeder_code": "032500",
+    "code": "33.25",
+    "name": "Kab. Batang"
+  },
+  {
+    "feeder_code": "032600",
+    "code": "33.26",
+    "name": "Kab. Pekalongan"
+  },
+  {
+    "feeder_code": "032700",
+    "code": "33.27",
+    "name": "Kab. Pemalang"
+  },
+  {
+    "feeder_code": "032800",
+    "code": "33.28",
+    "name": "Kab. Tegal"
+  },
+  {
+    "feeder_code": "032900",
+    "code": "33.29",
+    "name": "Kab. Brebes"
+  },
+  {
+    "feeder_code": "036000",
+    "code": "33.71",
+    "name": "Kota Magelang"
+  },
+  {
+    "feeder_code": "036100",
+    "code": "33.72",
+    "name": "Kota Surakarta"
+  },
+  {
+    "feeder_code": "036200",
+    "code": "33.73",
+    "name": "Kota Salatiga"
+  },
+  {
+    "feeder_code": "036300",
+    "code": "33.74",
+    "name": "Kota Semarang"
+  },
+  {
+    "feeder_code": "036400",
+    "code": "33.75",
+    "name": "Kota Pekalongan"
+  },
+  {
+    "feeder_code": "036500",
+    "code": "33.76",
+    "name": "Kota Tegal"
+  },
+  {
+    "feeder_code": "040400",
+    "code": "34.01",
+    "name": "Kab. Kulon Progo"
+  },
+  {
+    "feeder_code": "040100",
+    "code": "34.02",
+    "name": "Kab. Bantul"
+  },
+  {
+    "feeder_code": "040300",
+    "code": "34.03",
+    "name": "Kab. Gunungkidul"
+  },
+  {
+    "feeder_code": "040200",
+    "code": "34.04",
+    "name": "Kab. Sleman"
+  },
+  {
+    "feeder_code": "046000",
+    "code": "34.71",
+    "name": "Kota Yogyakarta"
+  },
+  {
+    "feeder_code": "051200",
+    "code": "35.01",
+    "name": "Kab. Pacitan"
+  },
+  {
+    "feeder_code": "051100",
+    "code": "35.02",
+    "name": "Kab. Ponorogo"
+  },
+  {
+    "feeder_code": "051700",
+    "code": "35.03",
+    "name": "Kab. Trenggalek"
+  },
+  {
+    "feeder_code": "051600",
+    "code": "35.04",
+    "name": "Kab. Tulungagung"
+  },
+  {
+    "feeder_code": "051500",
+    "code": "35.05",
+    "name": "Kab. Blitar"
+  },
+  {
+    "feeder_code": "051300",
+    "code": "35.06",
+    "name": "Kab. Kediri"
+  },
+  {
+    "feeder_code": "051800",
+    "code": "35.07",
+    "name": "Kab. Malang"
+  },
+  {
+    "feeder_code": "052100",
+    "code": "35.08",
+    "name": "Kab. Lumajang"
+  },
+  {
+    "feeder_code": "052400",
+    "code": "35.09",
+    "name": "Kab. Jember"
+  },
+  {
+    "feeder_code": "052500",
+    "code": "35.10",
+    "name": "Kab. Banyuwangi"
+  },
+  {
+    "feeder_code": "052200",
+    "code": "35.11",
+    "name": "Kab. Bondowoso"
+  },
+  {
+    "feeder_code": "052300",
+    "code": "35.12",
+    "name": "Kab. Situbondo"
+  },
+  {
+    "feeder_code": "052000",
+    "code": "35.13",
+    "name": "Kab. Probolinggo"
+  },
+  {
+    "feeder_code": "051900",
+    "code": "35.14",
+    "name": "Kab. Pasuruan"
+  },
+  {
+    "feeder_code": "050200",
+    "code": "35.15",
+    "name": "Kab. Sidoarjo"
+  },
+  {
+    "feeder_code": "050300",
+    "code": "35.16",
+    "name": "Kab. Mojokerto"
+  },
+  {
+    "feeder_code": "050400",
+    "code": "35.17",
+    "name": "Kab. Jombang"
+  },
+  {
+    "feeder_code": "051400",
+    "code": "35.18",
+    "name": "Kab. Nganjuk"
+  },
+  {
+    "feeder_code": "050800",
+    "code": "35.19",
+    "name": "Kab. Madiun"
+  },
+  {
+    "feeder_code": "051000",
+    "code": "35.20",
+    "name": "Kab. Magetan"
+  },
+  {
+    "feeder_code": "050900",
+    "code": "35.21",
+    "name": "Kab. Ngawi"
+  },
+  {
+    "feeder_code": "050500",
+    "code": "35.22",
+    "name": "Kab. Bojonegoro"
+  },
+  {
+    "feeder_code": "050600",
+    "code": "35.23",
+    "name": "Kab. Tuban"
+  },
+  {
+    "feeder_code": "050700",
+    "code": "35.24",
+    "name": "Kab. Lamongan"
+  },
+  {
+    "feeder_code": "050100",
+    "code": "35.25",
+    "name": "Kab. Gresik"
+  },
+  {
+    "feeder_code": "052900",
+    "code": "35.26",
+    "name": "Kab. Bangkalan"
+  },
+  {
+    "feeder_code": "052700",
+    "code": "35.27",
+    "name": "Kab. Sampang"
+  },
+  {
+    "feeder_code": "052600",
+    "code": "35.28",
+    "name": "Kab. Pamekasan"
+  },
+  {
+    "feeder_code": "052800",
+    "code": "35.29",
+    "name": "Kab. Sumenep"
+  },
+  {
+    "feeder_code": "056300",
+    "code": "35.71",
+    "name": "Kota Kediri"
+  },
+  {
+    "feeder_code": "056500",
+    "code": "35.72",
+    "name": "Kota Blitar"
+  },
+  {
+    "feeder_code": "056100",
+    "code": "35.73",
+    "name": "Kota Malang"
+  },
+  {
+    "feeder_code": "056700",
+    "code": "35.74",
+    "name": "Kota Probolinggo"
+  },
+  {
+    "feeder_code": "056600",
+    "code": "35.75",
+    "name": "Kota Pasuruan"
+  },
+  {
+    "feeder_code": "056400",
+    "code": "35.76",
+    "name": "Kota Mojokerto"
+  },
+  {
+    "feeder_code": "056200",
+    "code": "35.77",
+    "name": "Kota Madiun"
+  },
+  {
+    "feeder_code": "056000",
+    "code": "35.78",
+    "name": "Kota Surabaya"
+  },
+  {
+    "feeder_code": "056800",
+    "code": "35.79",
+    "name": "Kota Batu"
+  },
+  {
+    "feeder_code": "280100",
+    "code": "36.01",
+    "name": "Kab. Pandeglang"
+  },
+  {
+    "feeder_code": "280200",
+    "code": "36.02",
+    "name": "Kab. Lebak"
+  },
+  {
+    "feeder_code": "280300",
+    "code": "36.03",
+    "name": "Kab. Tangerang"
+  },
+  {
+    "feeder_code": "280400",
+    "code": "36.04",
+    "name": "Kab. Serang"
+  },
+  {
+    "feeder_code": "286100",
+    "code": "36.71",
+    "name": "Kota Tangerang"
+  },
+  {
+    "feeder_code": "286000",
+    "code": "36.72",
+    "name": "Kota Cilegon"
+  },
+  {
+    "feeder_code": "286200",
+    "code": "36.73",
+    "name": "Kota Serang"
+  },
+  {
+    "feeder_code": "286300",
+    "code": "36.74",
+    "name": "Kota Tangerang Selatan"
+  },
+  {
+    "feeder_code": "220200",
+    "code": "51.01",
+    "name": "Kab. Jembrana"
+  },
+  {
+    "feeder_code": "220300",
+    "code": "51.02",
+    "name": "Kab. Tabanan"
+  },
+  {
+    "feeder_code": "220400",
+    "code": "51.03",
+    "name": "Kab. Badung"
+  },
+  {
+    "feeder_code": "220500",
+    "code": "51.04",
+    "name": "Kab. Gianyar"
+  },
+  {
+    "feeder_code": "220600",
+    "code": "51.05",
+    "name": "Kab. Klungkung"
+  },
+  {
+    "feeder_code": "220700",
+    "code": "51.06",
+    "name": "Kab. Bangli"
+  },
+  {
+    "feeder_code": "220800",
+    "code": "51.07",
+    "name": "Kab. Karangasem"
+  },
+  {
+    "feeder_code": "220100",
+    "code": "51.08",
+    "name": "Kab. Buleleng"
+  },
+  {
+    "feeder_code": "226000",
+    "code": "51.71",
+    "name": "Kota Denpasar"
+  },
+  {
+    "feeder_code": "230100",
+    "code": "52.01",
+    "name": "Kab. Lombok Barat"
+  },
+  {
+    "feeder_code": "230200",
+    "code": "52.02",
+    "name": "Kab. Lombok Tengah"
+  },
+  {
+    "feeder_code": "230300",
+    "code": "52.03",
+    "name": "Kab. Lombok Timur"
+  },
+  {
+    "feeder_code": "230400",
+    "code": "52.04",
+    "name": "Kab. Sumbawa"
+  },
+  {
+    "feeder_code": "230500",
+    "code": "52.05",
+    "name": "Kab. Dompu"
+  },
+  {
+    "feeder_code": "230600",
+    "code": "52.06",
+    "name": "Kab. Bima"
+  },
+  {
+    "feeder_code": "230700",
+    "code": "52.07",
+    "name": "Kab. Sumbawa Barat"
+  },
+  {
+    "feeder_code": "230800",
+    "code": "52.08",
+    "name": "Kab. Lombok Utara"
+  },
+  {
+    "feeder_code": "236000",
+    "code": "52.71",
+    "name": "Kota Mataram"
+  },
+  {
+    "feeder_code": "236100",
+    "code": "52.72",
+    "name": "Kota Bima"
+  },
+  {
+    "feeder_code": "240100",
+    "code": "53.01",
+    "name": "Kab. Kupang"
+  },
+  {
+    "feeder_code": "240300",
+    "code": "53.02",
+    "name": "Kab. Timor Tengah Selatan"
+  },
+  {
+    "feeder_code": "240400",
+    "code": "53.03",
+    "name": "Kab. Timor Tengah Utara"
+  },
+  {
+    "feeder_code": "240500",
+    "code": "53.04",
+    "name": "Kab. Belu"
+  },
+  {
+    "feeder_code": "240600",
+    "code": "53.05",
+    "name": "Kab. Alor"
+  },
+  {
+    "feeder_code": "240700",
+    "code": "53.06",
+    "name": "Kab. Flores Timur"
+  },
+  {
+    "feeder_code": "240800",
+    "code": "53.07",
+    "name": "Kab. Sikka"
+  },
+  {
+    "feeder_code": "240900",
+    "code": "53.08",
+    "name": "Kab. Ende"
+  },
+  {
+    "feeder_code": "241000",
+    "code": "53.09",
+    "name": "Kab. Ngada"
+  },
+  {
+    "feeder_code": "241100",
+    "code": "53.10",
+    "name": "Kab. Manggarai"
+  },
+  {
+    "feeder_code": "241200",
+    "code": "53.11",
+    "name": "Kab. Sumba Timur"
+  },
+  {
+    "feeder_code": "241300",
+    "code": "53.12",
+    "name": "Kab. Sumba Barat"
+  },
+  {
+    "feeder_code": "241400",
+    "code": "53.13",
+    "name": "Kab. Lembata"
+  },
+  {
+    "feeder_code": "241500",
+    "code": "53.14",
+    "name": "Kab. Rote Ndao"
+  },
+  {
+    "feeder_code": "241600",
+    "code": "53.15",
+    "name": "Kab. Manggarai Barat"
+  },
+  {
+    "feeder_code": "241700",
+    "code": "53.16",
+    "name": "Kab. Nagekeo"
+  },
+  {
+    "feeder_code": "241800",
+    "code": "53.17",
+    "name": "Kab. Sumba Tengah"
+  },
+  {
+    "feeder_code": "241900",
+    "code": "53.18",
+    "name": "Kab. Sumba Barat Daya"
+  },
+  {
+    "feeder_code": "242000",
+    "code": "53.19",
+    "name": "Kab. Manggarai Timur"
+  },
+  {
+    "feeder_code": "242100",
+    "code": "53.20",
+    "name": "Kab. Sabu Raijua"
+  },
+  {
+    "feeder_code": "242200",
+    "code": "53.21",
+    "name": "Kab. Malaka"
+  },
+  {
+    "feeder_code": "246000",
+    "code": "53.71",
+    "name": "Kota Kupang"
+  },
+  {
+    "feeder_code": "130100",
+    "code": "61.01",
+    "name": "Kab. Sambas"
+  },
+  {
+    "feeder_code": "130200",
+    "code": "61.02",
+    "name": "Kab. Mempawah"
+  },
+  {
+    "feeder_code": "130300",
+    "code": "61.03",
+    "name": "Kab. Sanggau"
+  },
+  {
+    "feeder_code": "130600",
+    "code": "61.04",
+    "name": "Kab. Ketapang"
+  },
+  {
+    "feeder_code": "130400",
+    "code": "61.05",
+    "name": "Kab. Sintang"
+  },
+  {
+    "feeder_code": "130500",
+    "code": "61.06",
+    "name": "Kab. Kapuas Hulu"
+  },
+  {
+    "feeder_code": "130800",
+    "code": "61.07",
+    "name": "Kab. Bengkayang"
+  },
+  {
+    "feeder_code": "130900",
+    "code": "61.08",
+    "name": "Kab. Landak"
+  },
+  {
+    "feeder_code": "131000",
+    "code": "61.09",
+    "name": "Kab. Sekadau"
+  },
+  {
+    "feeder_code": "131100",
+    "code": "61.10",
+    "name": "Kab. Melawi"
+  },
+  {
+    "feeder_code": "131200",
+    "code": "61.11",
+    "name": "Kab. Kayong Utara"
+  },
+  {
+    "feeder_code": "131300",
+    "code": "61.12",
+    "name": "Kab. Kubu Raya"
+  },
+  {
+    "feeder_code": "136000",
+    "code": "61.71",
+    "name": "Kota Pontianak"
+  },
+  {
+    "feeder_code": "136100",
+    "code": "61.72",
+    "name": "Kota Singkawang"
+  },
+  {
+    "feeder_code": "140500",
+    "code": "62.01",
+    "name": "Kab. Kotawaringin Barat"
+  },
+  {
+    "feeder_code": "140400",
+    "code": "62.02",
+    "name": "Kab. Kotawaringin Timur"
+  },
+  {
+    "feeder_code": "140100",
+    "code": "62.03",
+    "name": "Kab. Kapuas"
+  },
+  {
+    "feeder_code": "140200",
+    "code": "62.04",
+    "name": "Kab. Barito Selatan"
+  },
+  {
+    "feeder_code": "140300",
+    "code": "62.05",
+    "name": "Kab. Barito Utara"
+  },
+  {
+    "feeder_code": "140600",
+    "code": "62.06",
+    "name": "Kab. Katingan"
+  },
+  {
+    "feeder_code": "140700",
+    "code": "62.07",
+    "name": "Kab. Seruyan"
+  },
+  {
+    "feeder_code": "140800",
+    "code": "62.08",
+    "name": "Kab. Sukamara"
+  },
+  {
+    "feeder_code": "140900",
+    "code": "62.09",
+    "name": "Kab. Lamandau"
+  },
+  {
+    "feeder_code": "141000",
+    "code": "62.10",
+    "name": "Kab. Gunung Mas"
+  },
+  {
+    "feeder_code": "141100",
+    "code": "62.11",
+    "name": "Kab. Pulang Pisau"
+  },
+  {
+    "feeder_code": "141200",
+    "code": "62.12",
+    "name": "Kab. Murung Raya"
+  },
+  {
+    "feeder_code": "141300",
+    "code": "62.13",
+    "name": "Kab. Barito Timur"
+  },
+  {
+    "feeder_code": "146000",
+    "code": "62.71",
+    "name": "Kota Palangkaraya"
+  },
+  {
+    "feeder_code": "150200",
+    "code": "63.01",
+    "name": "Kab. Tanah Laut"
+  },
+  {
+    "feeder_code": "150900",
+    "code": "63.02",
+    "name": "Kab. Kotabaru"
+  },
+  {
+    "feeder_code": "150100",
+    "code": "63.03",
+    "name": "Kab. Banjar"
+  },
+  {
+    "feeder_code": "150300",
+    "code": "63.04",
+    "name": "Kab. Barito Kuala"
+  },
+  {
+    "feeder_code": "150400",
+    "code": "63.05",
+    "name": "Kab. Tapin"
+  },
+  {
+    "feeder_code": "150500",
+    "code": "63.06",
+    "name": "Kab. Hulu Sungai Selatan"
+  },
+  {
+    "feeder_code": "150600",
+    "code": "63.07",
+    "name": "Kab. Hulu Sungai Tengah"
+  },
+  {
+    "feeder_code": "150700",
+    "code": "63.08",
+    "name": "Kab. Hulu Sungai Utara"
+  },
+  {
+    "feeder_code": "150800",
+    "code": "63.09",
+    "name": "Kab. Tabalong"
+  },
+  {
+    "feeder_code": "151100",
+    "code": "63.10",
+    "name": "Kab. Tanah Bumbu"
+  },
+  {
+    "feeder_code": "151000",
+    "code": "63.11",
+    "name": "Kab. Balangan"
+  },
+  {
+    "feeder_code": "156000",
+    "code": "63.71",
+    "name": "Kota Banjarmasin"
+  },
+  {
+    "feeder_code": "156100",
+    "code": "63.72",
+    "name": "Kota Banjarbaru"
+  },
+  {
+    "feeder_code": "160100",
+    "code": "64.01",
+    "name": "Kab. Paser"
+  },
+  {
+    "feeder_code": "160200",
+    "code": "64.02",
+    "name": "Kab. Kutai Kartanegara"
+  },
+  {
+    "feeder_code": "160300",
+    "code": "64.03",
+    "name": "Kab. Berau"
+  },
+  {
+    "feeder_code": "160900",
+    "code": "64.07",
+    "name": "Kab. Kutai Barat"
+  },
+  {
+    "feeder_code": "161000",
+    "code": "64.08",
+    "name": "Kab. Kutai Timur"
+  },
+  {
+    "feeder_code": "161100",
+    "code": "64.09",
+    "name": "Kab. Penajam Paser Utara"
+  },
+  {
+    "feeder_code": "161200",
+    "code": "64.11",
+    "name": "Kab. Mahakam Ulu"
+  },
+  {
+    "feeder_code": "166100",
+    "code": "64.71",
+    "name": "Kota Balikpapan"
+  },
+  {
+    "feeder_code": "166000",
+    "code": "64.72",
+    "name": "Kota Samarinda"
+  },
+  {
+    "feeder_code": "166300",
+    "code": "64.74",
+    "name": "Kota Bontang"
+  },
+  {
+    "feeder_code": "340200",
+    "code": "65.01",
+    "name": "Kab. Bulungan"
+  },
+  {
+    "feeder_code": "340100",
+    "code": "65.02",
+    "name": "Kab. Malinau"
+  },
+  {
+    "feeder_code": "340500",
+    "code": "65.03",
+    "name": "Kab. Nunukan"
+  },
+  {
+    "feeder_code": "340300",
+    "code": "65.04",
+    "name": "Kab. Tana Tidung"
+  },
+  {
+    "feeder_code": "346000",
+    "code": "65.71",
+    "name": "Kota Tarakan"
+  },
+  {
+    "feeder_code": "170100",
+    "code": "71.01",
+    "name": "Kab. Bolaang Mongondow"
+  },
+  {
+    "feeder_code": "170200",
+    "code": "71.02",
+    "name": "Kab. Minahasa"
+  },
+  {
+    "feeder_code": "170300",
+    "code": "71.03",
+    "name": "Kab. Kepulauan Sangihe"
+  },
+  {
+    "feeder_code": "170400",
+    "code": "71.04",
+    "name": "Kab. Kepulauan Talaud"
+  },
+  {
+    "feeder_code": "170500",
+    "code": "71.05",
+    "name": "Kab. Minahasa Selatan"
+  },
+  {
+    "feeder_code": "170600",
+    "code": "71.06",
+    "name": "Kab. Minahasa Utara"
+  },
+  {
+    "feeder_code": "171000",
+    "code": "71.07",
+    "name": "Kab. Minahasa Tenggara"
+  },
+  {
+    "feeder_code": "170800",
+    "code": "71.08",
+    "name": "Kab. Bolaang Mongondow Utara"
+  },
+  {
+    "feeder_code": "170900",
+    "code": "71.09",
+    "name": "Kab. Kep. Siau Tagulandang Biaro"
+  },
+  {
+    "feeder_code": "171100",
+    "code": "71.10",
+    "name": "Kab. Bolaang Mongondow Timur"
+  },
+  {
+    "feeder_code": "171200",
+    "code": "71.11",
+    "name": "Kab. Bolaang Mongondow Selatan"
+  },
+  {
+    "feeder_code": "176000",
+    "code": "71.71",
+    "name": "Kota Manado"
+  },
+  {
+    "feeder_code": "176100",
+    "code": "71.72",
+    "name": "Kota Bitung"
+  },
+  {
+    "feeder_code": "176200",
+    "code": "71.73",
+    "name": "Kota Tomohon"
+  },
+  {
+    "feeder_code": "176300",
+    "code": "71.74",
+    "name": "Kota Kotamobagu"
+  },
+  {
+    "feeder_code": "180400",
+    "code": "72.01",
+    "name": "Kab. Banggai"
+  },
+  {
+    "feeder_code": "180800",
+    "code": "72.02",
+    "name": "Kab. Poso"
+  },
+  {
+    "feeder_code": "180200",
+    "code": "72.03",
+    "name": "Kab. Donggala"
+  },
+  {
+    "feeder_code": "180600",
+    "code": "72.04",
+    "name": "Kab. Toli Toli"
+  },
+  {
+    "feeder_code": "180500",
+    "code": "72.05",
+    "name": "Kab. Buol"
+  },
+  {
+    "feeder_code": "180700",
+    "code": "72.06",
+    "name": "Kab. Morowali"
+  },
+  {
+    "feeder_code": "180100",
+    "code": "72.07",
+    "name": "Kab. Banggai Kepulauan"
+  },
+  {
+    "feeder_code": "180300",
+    "code": "72.08",
+    "name": "Kab. Parigi Moutong"
+  },
+  {
+    "feeder_code": "180900",
+    "code": "72.09",
+    "name": "Kab. Tojo Una Una"
+  },
+  {
+    "feeder_code": "181000",
+    "code": "72.10",
+    "name": "Kab. Sigi"
+  },
+  {
+    "feeder_code": "181100",
+    "code": "72.11",
+    "name": "Kab. Banggai Laut"
+  },
+  {
+    "feeder_code": "181200",
+    "code": "72.12",
+    "name": "Kab. Morowali Utara"
+  },
+  {
+    "feeder_code": "186000",
+    "code": "72.71",
+    "name": "Kota Palu"
+  },
+  {
+    "feeder_code": "191300",
+    "code": "73.01",
+    "name": "Kab. Kepulauan Selayar"
+  },
+  {
+    "feeder_code": "191100",
+    "code": "73.02",
+    "name": "Kab. Bulukumba"
+  },
+  {
+    "feeder_code": "191000",
+    "code": "73.03",
+    "name": "Kab. Bantaeng"
+  },
+  {
+    "feeder_code": "190500",
+    "code": "73.04",
+    "name": "Kab. Jeneponto"
+  },
+  {
+    "feeder_code": "190400",
+    "code": "73.05",
+    "name": "Kab. Takalar"
+  },
+  {
+    "feeder_code": "190300",
+    "code": "73.06",
+    "name": "Kab. Gowa"
+  },
+  {
+    "feeder_code": "191200",
+    "code": "73.07",
+    "name": "Kab. Sinjai"
+  },
+  {
+    "feeder_code": "190700",
+    "code": "73.08",
+    "name": "Kab. Bone"
+  },
+  {
+    "feeder_code": "190100",
+    "code": "73.09",
+    "name": "Kab. Maros"
+  },
+  {
+    "feeder_code": "190200",
+    "code": "73.10",
+    "name": "Kab. Pangkajene Kepulauan"
+  },
+  {
+    "feeder_code": "190600",
+    "code": "73.11",
+    "name": "Kab. Barru"
+  },
+  {
+    "feeder_code": "190900",
+    "code": "73.12",
+    "name": "Kab. Soppeng"
+  },
+  {
+    "feeder_code": "190800",
+    "code": "73.13",
+    "name": "Kab. Wajo"
+  },
+  {
+    "feeder_code": "191500",
+    "code": "73.14",
+    "name": "Kab. Sidenreng Rappang"
+  },
+  {
+    "feeder_code": "191400",
+    "code": "73.15",
+    "name": "Kab. Pinrang"
+  },
+  {
+    "feeder_code": "191600",
+    "code": "73.16",
+    "name": "Kab. Enrekang"
+  },
+  {
+    "feeder_code": "191700",
+    "code": "73.17",
+    "name": "Kab. Luwu"
+  },
+  {
+    "feeder_code": "191800",
+    "code": "73.18",
+    "name": "Kab. Tana Toraja"
+  },
+  {
+    "feeder_code": "192400",
+    "code": "73.22",
+    "name": "Kab. Luwu Utara"
+  },
+  {
+    "feeder_code": "192600",
+    "code": "73.24",
+    "name": "Kab. Luwu Timur"
+  },
+  {
+    "feeder_code": "192700",
+    "code": "73.26",
+    "name": "Kab. Toraja Utara"
+  },
+  {
+    "feeder_code": "196000",
+    "code": "73.71",
+    "name": "Kota Makassar"
+  },
+  {
+    "feeder_code": "196100",
+    "code": "73.72",
+    "name": "Kota Pare Pare"
+  },
+  {
+    "feeder_code": "196200",
+    "code": "73.73",
+    "name": "Kota Palopo"
+  },
+  {
+    "feeder_code": "200400",
+    "code": "74.01",
+    "name": "Kab. Kolaka"
+  },
+  {
+    "feeder_code": "200100",
+    "code": "74.02",
+    "name": "Kab. Konawe"
+  },
+  {
+    "feeder_code": "200200",
+    "code": "74.03",
+    "name": "Kab. Muna"
+  },
+  {
+    "feeder_code": "200300",
+    "code": "74.04",
+    "name": "Kab. Buton"
+  },
+  {
+    "feeder_code": "200500",
+    "code": "74.05",
+    "name": "Kab. Konawe Selatan"
+  },
+  {
+    "feeder_code": "200700",
+    "code": "74.06",
+    "name": "Kab. Bombana"
+  },
+  {
+    "feeder_code": "200600",
+    "code": "74.07",
+    "name": "Kab. Wakatobi"
+  },
+  {
+    "feeder_code": "200800",
+    "code": "74.08",
+    "name": "Kab. Kolaka Utara"
+  },
+  {
+    "feeder_code": "200900",
+    "code": "74.09",
+    "name": "Kab. Konawe Utara"
+  },
+  {
+    "feeder_code": "201000",
+    "code": "74.10",
+    "name": "Kab. Buton Utara"
+  },
+  {
+    "feeder_code": "201100",
+    "code": "74.11",
+    "name": "Kab. Kolaka Timur"
+  },
+  {
+    "feeder_code": "201200",
+    "code": "74.12",
+    "name": "Kab. Konawe Kepulauan"
+  },
+  {
+    "feeder_code": "201300",
+    "code": "74.13",
+    "name": "Kab. Muna Barat"
+  },
+  {
+    "feeder_code": "201600",
+    "code": "74.14",
+    "name": "Kab. Buton Tengah"
+  },
+  {
+    "feeder_code": "201400",
+    "code": "74.15",
+    "name": "Kab. Buton Selatan"
+  },
+  {
+    "feeder_code": "206000",
+    "code": "74.71",
+    "name": "Kota Kendari"
+  },
+  {
+    "feeder_code": "206100",
+    "code": "74.72",
+    "name": "Kota Bau Bau"
+  },
+  {
+    "feeder_code": "300200",
+    "code": "75.01",
+    "name": "Kab. Gorontalo"
+  },
+  {
+    "feeder_code": "300100",
+    "code": "75.02",
+    "name": "Kab. Boalemo"
+  },
+  {
+    "feeder_code": "300400",
+    "code": "75.03",
+    "name": "Kab. Bone Bolango"
+  },
+  {
+    "feeder_code": "300300",
+    "code": "75.04",
+    "name": "Kab. Pahuwato"
+  },
+  {
+    "feeder_code": "300500",
+    "code": "75.05",
+    "name": "Kab. Gorontalo Utara"
+  },
+  {
+    "feeder_code": "306000",
+    "code": "75.71",
+    "name": "Kota Gorontalo"
+  },
+  {
+    "feeder_code": "330200",
+    "code": "76.01",
+    "name": "Kab. Pasangkayu"
+  },
+  {
+    "feeder_code": "330100",
+    "code": "76.02",
+    "name": "Kab. Mamuju"
+  },
+  {
+    "feeder_code": "330400",
+    "code": "76.03",
+    "name": "Kab. Mamasa"
+  },
+  {
+    "feeder_code": "330300",
+    "code": "76.04",
+    "name": "Kab. Polewali Mandar"
+  },
+  {
+    "feeder_code": "330500",
+    "code": "76.05",
+    "name": "Kab. Majene"
+  },
+  {
+    "feeder_code": "330600",
+    "code": "76.06",
+    "name": "Kab. Mamuju Tengah"
+  },
+  {
+    "feeder_code": "210100",
+    "code": "81.01",
+    "name": "Kab. Maluku Tengah"
+  },
+  {
+    "feeder_code": "210200",
+    "code": "81.02",
+    "name": "Kab. Maluku Tenggara"
+  },
+  {
+    "feeder_code": "210400",
+    "code": "81.03",
+    "name": "Kab. Kepulauan Tanimbar"
+  },
+  {
+    "feeder_code": "210300",
+    "code": "81.04",
+    "name": "Kab. Buru"
+  },
+  {
+    "feeder_code": "210600",
+    "code": "81.05",
+    "name": "Kab. Seram Bagian Timur"
+  },
+  {
+    "feeder_code": "210500",
+    "code": "81.06",
+    "name": "Kab. Seram Bagian Barat"
+  },
+  {
+    "feeder_code": "210700",
+    "code": "81.07",
+    "name": "Kab. Kepulauan Aru"
+  },
+  {
+    "feeder_code": "210800",
+    "code": "81.08",
+    "name": "Kab. Maluku Barat Daya"
+  },
+  {
+    "feeder_code": "210900",
+    "code": "81.09",
+    "name": "Kab. Buru Selatan"
+  },
+  {
+    "feeder_code": "216000",
+    "code": "81.71",
+    "name": "Kota Ambon"
+  },
+  {
+    "feeder_code": "216100",
+    "code": "81.72",
+    "name": "Kota Tual"
+  },
+  {
+    "feeder_code": "270300",
+    "code": "82.01",
+    "name": "Kab. Halmahera Barat"
+  },
+  {
+    "feeder_code": "270200",
+    "code": "82.02",
+    "name": "Kab. Halmahera Tengah"
+  },
+  {
+    "feeder_code": "270400",
+    "code": "82.03",
+    "name": "Kab. Halmahera Utara"
+  },
+  {
+    "feeder_code": "270500",
+    "code": "82.04",
+    "name": "Kab. Halmahera Selatan"
+  },
+  {
+    "feeder_code": "270700",
+    "code": "82.05",
+    "name": "Kab. Kepulauan Sula"
+  },
+  {
+    "feeder_code": "270600",
+    "code": "82.06",
+    "name": "Kab. Halmahera Timur"
+  },
+  {
+    "feeder_code": "270800",
+    "code": "82.07",
+    "name": "Kab. Pulau Morotai"
+  },
+  {
+    "feeder_code": "270100",
+    "code": "82.08",
+    "name": "Kab. Pulau Taliabu"
+  },
+  {
+    "feeder_code": "276000",
+    "code": "82.71",
+    "name": "Kota Ternate"
+  },
+  {
+    "feeder_code": "276100",
+    "code": "82.72",
+    "name": "Kota Tidore Kepulauan"
+  },
+  {
+    "feeder_code": "250700",
+    "code": "91.01",
+    "name": "Kab. Merauke"
+  },
+  {
+    "feeder_code": "250800",
+    "code": "91.02",
+    "name": "Kab. Jayawijaya"
+  },
+  {
+    "feeder_code": "250100",
+    "code": "91.03",
+    "name": "Kab. Jayapura"
+  },
+  {
+    "feeder_code": "250900",
+    "code": "91.04",
+    "name": "Kab. Nabire"
+  },
+  {
+    "feeder_code": "250300",
+    "code": "91.05",
+    "name": "Kab. Kepulauan Yapen"
+  },
+  {
+    "feeder_code": "250200",
+    "code": "91.06",
+    "name": "Kab. Biak Numfor"
+  },
+  {
+    "feeder_code": "251100",
+    "code": "91.07",
+    "name": "Kab. Puncak Jaya"
+  },
+  {
+    "feeder_code": "251000",
+    "code": "91.08",
+    "name": "Kab. Paniai"
+  },
+  {
+    "feeder_code": "251200",
+    "code": "91.09",
+    "name": "Kab. Mimika"
+  },
+  {
+    "feeder_code": "251900",
+    "code": "91.10",
+    "name": "Kab. Sarmi"
+  },
+  {
+    "feeder_code": "252000",
+    "code": "91.11",
+    "name": "Kab. Keerom"
+  },
+  {
+    "feeder_code": "251700",
+    "code": "91.12",
+    "name": "Kab. Pegunungan Bintang"
+  },
+  {
+    "feeder_code": "251600",
+    "code": "91.13",
+    "name": "Kab. Yahukimo"
+  },
+  {
+    "feeder_code": "251800",
+    "code": "91.14",
+    "name": "Kab. Tolikara"
+  },
+  {
+    "feeder_code": "252600",
+    "code": "91.15",
+    "name": "Kab. Waropen"
+  },
+  {
+    "feeder_code": "251300",
+    "code": "91.16",
+    "name": "Kab. Boven Digoel"
+  },
+  {
+    "feeder_code": "251400",
+    "code": "91.17",
+    "name": "Kab. Mappi"
+  },
+  {
+    "feeder_code": "251500",
+    "code": "91.18",
+    "name": "Kab. Asmat"
+  },
+  {
+    "feeder_code": "252700",
+    "code": "91.19",
+    "name": "Kab. Supiori"
+  },
+  {
+    "feeder_code": "252800",
+    "code": "91.20",
+    "name": "Kab. Mamberamo Raya"
+  },
+  {
+    "feeder_code": "253100",
+    "code": "91.21",
+    "name": "Kab. Mamberamo Tengah"
+  },
+  {
+    "feeder_code": "253200",
+    "code": "91.22",
+    "name": "Kab. Yalimo"
+  },
+  {
+    "feeder_code": "253000",
+    "code": "91.23",
+    "name": "Kab. Lanny Jaya"
+  },
+  {
+    "feeder_code": "252900",
+    "code": "91.24",
+    "name": "Kab. Nduga"
+  },
+  {
+    "feeder_code": "253300",
+    "code": "91.25",
+    "name": "Kab. Puncak"
+  },
+  {
+    "feeder_code": "253400",
+    "code": "91.26",
+    "name": "Kab. Dogiyai"
+  },
+  {
+    "feeder_code": "253600",
+    "code": "91.27",
+    "name": "Kab. Intan Jaya"
+  },
+  {
+    "feeder_code": "253500",
+    "code": "91.28",
+    "name": "Kab. Deiyai"
+  },
+  {
+    "feeder_code": "256000",
+    "code": "91.71",
+    "name": "Kota Jayapura"
+  },
+  {
+    "feeder_code": "320700",
+    "code": "92.01",
+    "name": "Kab. Sorong"
+  },
+  {
+    "feeder_code": "320500",
+    "code": "92.02",
+    "name": "Kab. Manokwari"
+  },
+  {
+    "feeder_code": "320100",
+    "code": "92.03",
+    "name": "Kab. Fak Fak"
+  },
+  {
+    "feeder_code": "320600",
+    "code": "92.04",
+    "name": "Kab. Sorong Selatan"
+  },
+  {
+    "feeder_code": "320800",
+    "code": "92.05",
+    "name": "Kab. Raja Ampat"
+  },
+  {
+    "feeder_code": "320400",
+    "code": "92.06",
+    "name": "Kab. Teluk Bintuni"
+  },
+  {
+    "feeder_code": "320300",
+    "code": "92.07",
+    "name": "Kab. Teluk Wondama"
+  },
+  {
+    "feeder_code": "320200",
+    "code": "92.08",
+    "name": "Kab. Kaimana"
+  },
+  {
+    "feeder_code": "320900",
+    "code": "92.09",
+    "name": "Kab. Tambrauw"
+  },
+  {
+    "feeder_code": "321000",
+    "code": "92.10",
+    "name": "Kab. Maybrat"
+  },
+  {
+    "feeder_code": "321200",
+    "code": "92.11",
+    "name": "Kab. Manokwari Selatan"
+  },
+  {
+    "feeder_code": "321100",
+    "code": "92.12",
+    "name": "Kab. Pegunungan Arfak"
+  },
+  {
+    "feeder_code": "326000",
+    "code": "92.71",
+    "name": "Kota Sorong"
+  }
+]
